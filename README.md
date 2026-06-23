@@ -43,3 +43,6 @@ Contact added successfully!
 ## Purpose
 
 This project was created to practice Python programming and improve problem-solving skills using dictionaries and functions.
+
+# Author
+Preetham G
